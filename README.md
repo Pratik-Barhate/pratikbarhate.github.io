@@ -1,2 +1,3 @@
-# pratikbarhate.github.io
-Github page to host personal information.
+### Pratik Barhate
+
+Personal landing page to connect all of my social media and other digital channels.
