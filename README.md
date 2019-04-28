@@ -2,4 +2,4 @@
 
 Personal landing page to connect all of the social media and other digital channels.
 
-Made with [Carrd](carrd.co)
+Made with carrd.co
